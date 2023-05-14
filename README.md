@@ -27,4 +27,4 @@ number (match_result) can be either 0, 1, or 2, indicating who the winner is. If
 first team wins and its score is increased by score, which is the fourth integer in the
 line. If 2 then the second team wins and its score is increased by score. If 0 then there
 is a tie in the game and both teams’ scores are increased by score.
-
+P.S: I will upload both files, so it will be easier to edit them.
