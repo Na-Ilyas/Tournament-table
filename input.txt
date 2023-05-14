@@ -1,0 +1,5 @@
+4
+118 Irtysh Pavlodar 200000.55 32
+7909 Astana Nur-Sultan 8500000.20 41
+234 Kaisar Kyzylorda 550000.49 29
+56 Kairat Almaty 9000000.99 35
