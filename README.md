@@ -1,5 +1,5 @@
 # Tournament-table
-This is the Tournament table project to help and find the champion in the league.
+This is the Tournament table project written in C language to help and find the champion in the league.
 It follows strict format in two txt files, so please be careful with that.
 For instance here is the format and expalanation of the  first input file:
 4
